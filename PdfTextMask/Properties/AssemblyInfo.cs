@@ -10,7 +10,7 @@ using System.Runtime.InteropServices;
 #endif
 [assembly: AssemblyCompany("")]
 [assembly: AssemblyProduct("PdfTextMask")]
-[assembly: AssemblyCopyright("Copyright (C) 2017 Simon Mourier. All rights reserved.")]
+[assembly: AssemblyCopyright("Copyright (C) 2017-2025 Simon Mourier. All rights reserved.")]
 [assembly: AssemblyTrademark("PdfTextMask (TM) is a trademark of Simon Mourier.")]
 [assembly: AssemblyCulture("")]
 [assembly: ComVisible(false)]
